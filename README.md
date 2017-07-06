@@ -6,4 +6,4 @@ Realizacja:
 • Rozwiązanie dwóch problemów CSP: Kolorowanie grafu, N-Hetmanów
 • Sformułowanie wybranych problemów jako problemów spełniania ograniczeń
 • Implementacja algorytmów sprawdzenia wprzód, oraz przeszukiwania przyrostowego z powracaniem
-• Porównanie czasów przetwarzania zaimplementowanych metod
+• Porównanie czasów przetwarzania zaimplementowanych metods
